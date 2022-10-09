@@ -1,2 +1,2 @@
-brew install tesseract -y
+brew install tesseract
 pip install -r requirements.txt
