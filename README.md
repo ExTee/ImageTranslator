@@ -18,6 +18,7 @@ To translate text:
 
 ## 2. Capture portion of screen 
 ![](tut.png)
+![](tut2.png)
 
 ## 3. Go back to Terminal and press enter
 
